@@ -1,0 +1,5 @@
+{
+  "name": "ViaaChat",
+  "description": "A modern chat application interface inspired by WhatsApp, built with React, TypeScript, and Tailwind CSS. It features a clean, premium design for a great user experience.",
+  "requestFramePermissions": []
+}
